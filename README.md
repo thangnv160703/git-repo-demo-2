@@ -4,4 +4,5 @@ Some thing
 
 ## Subheader
 
-Git tutorial
+Git tutorial.
+Nothing difficult.
