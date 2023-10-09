@@ -3,6 +3,7 @@
 Some thing.
 This is a mistake.
 New line (Testing).
+New line (Master).
 
 ## Subheader
 
