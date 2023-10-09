@@ -1,3 +1,7 @@
 # Git demo 2
 
-some thing
+Some thing
+
+## Subheader
+
+Git tutorial
