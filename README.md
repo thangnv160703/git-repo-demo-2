@@ -5,4 +5,5 @@ This is a mistake.
 
 ## Subheader
 
-Git tutorial
+Git tutorial.
+Nothing difficult.
